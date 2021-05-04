@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "loops_lite", "loops_lite\loops_lite.csproj", "{79705D0B-DAD8-4367-A06E-3ED186213874}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "loops", "loops\loops.csproj", "{0FAF2627-E29F-4204-BE37-6C1ED3405DC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79705D0B-DAD8-4367-A06E-3ED186213874}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79705D0B-DAD8-4367-A06E-3ED186213874}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79705D0B-DAD8-4367-A06E-3ED186213874}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79705D0B-DAD8-4367-A06E-3ED186213874}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FAF2627-E29F-4204-BE37-6C1ED3405DC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FAF2627-E29F-4204-BE37-6C1ED3405DC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FAF2627-E29F-4204-BE37-6C1ED3405DC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FAF2627-E29F-4204-BE37-6C1ED3405DC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80384362-EB4F-4C25-9EAA-AC658C30411F}
+	EndGlobalSection
+EndGlobal

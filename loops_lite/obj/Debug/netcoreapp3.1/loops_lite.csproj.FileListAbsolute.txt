@@ -1,0 +1,13 @@
+D:\Elena\skillbox\skillbox\loops_lite\bin\Debug\netcoreapp3.1\loops_lite.exe
+D:\Elena\skillbox\skillbox\loops_lite\bin\Debug\netcoreapp3.1\loops_lite.deps.json
+D:\Elena\skillbox\skillbox\loops_lite\bin\Debug\netcoreapp3.1\loops_lite.runtimeconfig.json
+D:\Elena\skillbox\skillbox\loops_lite\bin\Debug\netcoreapp3.1\loops_lite.runtimeconfig.dev.json
+D:\Elena\skillbox\skillbox\loops_lite\bin\Debug\netcoreapp3.1\loops_lite.dll
+D:\Elena\skillbox\skillbox\loops_lite\bin\Debug\netcoreapp3.1\loops_lite.pdb
+D:\Elena\skillbox\skillbox\loops_lite\obj\Debug\netcoreapp3.1\loops_lite.csprojAssemblyReference.cache
+D:\Elena\skillbox\skillbox\loops_lite\obj\Debug\netcoreapp3.1\loops_lite.AssemblyInfoInputs.cache
+D:\Elena\skillbox\skillbox\loops_lite\obj\Debug\netcoreapp3.1\loops_lite.AssemblyInfo.cs
+D:\Elena\skillbox\skillbox\loops_lite\obj\Debug\netcoreapp3.1\loops_lite.csproj.CoreCompileInputs.cache
+D:\Elena\skillbox\skillbox\loops_lite\obj\Debug\netcoreapp3.1\loops_lite.dll
+D:\Elena\skillbox\skillbox\loops_lite\obj\Debug\netcoreapp3.1\loops_lite.pdb
+D:\Elena\skillbox\skillbox\loops_lite\obj\Debug\netcoreapp3.1\loops_lite.genruntimeconfig.cache
