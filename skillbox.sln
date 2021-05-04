@@ -3,9 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "loops_lite", "loops_lite\loops_lite.csproj", "{79705D0B-DAD8-4367-A06E-3ED186213874}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "loops_lite", "loops_lite\loops_lite.csproj", "{79705D0B-DAD8-4367-A06E-3ED186213874}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "loops", "loops\loops.csproj", "{0FAF2627-E29F-4204-BE37-6C1ED3405DC7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "loops", "loops\loops.csproj", "{0FAF2627-E29F-4204-BE37-6C1ED3405DC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arrays_task1", "arrays_task1\arrays_task1.csproj", "{27A94785-3CCE-4051-8185-F22CC196E1FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arrays_task2", "arrays_task2\arrays_task2.csproj", "{07BAD431-D152-463F-BEC2-CBD8EDC1F2EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arrays_task3", "arrays_task3\arrays_task3.csproj", "{F0B52B5E-B42C-476F-AC74-FEDBEF9483DB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +27,18 @@ Global
 		{0FAF2627-E29F-4204-BE37-6C1ED3405DC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0FAF2627-E29F-4204-BE37-6C1ED3405DC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0FAF2627-E29F-4204-BE37-6C1ED3405DC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27A94785-3CCE-4051-8185-F22CC196E1FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27A94785-3CCE-4051-8185-F22CC196E1FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27A94785-3CCE-4051-8185-F22CC196E1FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27A94785-3CCE-4051-8185-F22CC196E1FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07BAD431-D152-463F-BEC2-CBD8EDC1F2EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07BAD431-D152-463F-BEC2-CBD8EDC1F2EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07BAD431-D152-463F-BEC2-CBD8EDC1F2EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07BAD431-D152-463F-BEC2-CBD8EDC1F2EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0B52B5E-B42C-476F-AC74-FEDBEF9483DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0B52B5E-B42C-476F-AC74-FEDBEF9483DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0B52B5E-B42C-476F-AC74-FEDBEF9483DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0B52B5E-B42C-476F-AC74-FEDBEF9483DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
