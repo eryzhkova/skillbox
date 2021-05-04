@@ -287,14 +287,8 @@ namespace Homework_Task2_Module03
                     else
                     {
                         // Генерация числа от компьютера
+                        // Если число меньше возможного варианта числа от игроков, то генерирруем до него
                         userTry = gameNumber < userTryMax ? randomize.Next(1, gameNumber + 1) : randomize.Next(1, userTryMax + 1);
-                        // if (gameNumber >= 4)
-                        //   userTry = randomize.Next(1, userTryMax + 1);
-                        // else if (gameNumber == 3)
-                        //    userTry = randomize.Next(1, 4);
-                        //  else if (gameNumber == 2)
-                        //   userTry = randomize.Next(1, 3);
-                        // else userTry = 1;
                         Console.WriteLine($"Ходит {secondPlayer}. Введено число: {userTry}");
 
                         gameNumber -= userTry;

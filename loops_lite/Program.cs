@@ -75,6 +75,7 @@ namespace Homework_Theme_03
             Console.Write("Второй игрок: ");
             string secondPlayer = Console.ReadLine();
 
+            // Генерания числа
             Random randomize = new Random();
             int gameNumber = randomize.Next(12, 121);
             Console.WriteLine($"Загаданное число: {gameNumber}");
